@@ -1,1 +1,29 @@
+//Note: These are preliminary values for the objects. Any convention for adding additional information is welcomed
 
+
+{"Atomic Elements": [
+  {"elementName":"Hydrogen",
+  "Symbol":"H",
+  "atomicNumber":1,
+  "atomicWeight":1.008,
+  "meltingPoint":13.99,
+  "boilingPoint":20.271}, 
+  
+  {"elementName":"Helium",
+  "Symbol":"He",
+  "atomicNumber":2,
+  "atomicWeight":4.0026,
+  "meltingPoint":0.95,
+  "boilingPoint":4.222},
+  
+  {"elementName":"Lithium",
+  "Symbol":"Li",
+  "atomicNumber":3,
+  "atomicWeight":6.94,
+  "meltingPoint":453.65,
+  "boilingPoint":1603}, 
+  
+  
+  
+  
+  ]}
